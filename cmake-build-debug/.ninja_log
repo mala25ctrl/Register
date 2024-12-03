@@ -1,0 +1,19 @@
+# ninja log v6
+11	1003	7549642929762413	CMakeFiles/register.dir/main.cpp.obj	62e97b4b7553059e
+1004	1323	7549642939686358	register.exe	3ce8947fcf71946a
+26	823	7549642123426564	CMakeFiles/register.dir/Activity.cpp.obj	9aa0a4670442dccd
+31	849	7549648545685761	CMakeFiles/register.dir/Register.cpp.obj	fd9bdd2652ee940f
+21	877	7549648545586735	CMakeFiles/register.dir/Activity.cpp.obj	9aa0a4670442dccd
+11	1162	7549648545481122	CMakeFiles/register.dir/main.cpp.obj	62e97b4b7553059e
+1162	1479	7549648557002685	register.exe	b3a419c44299cd98
+22	781	7549658267747445	CMakeFiles/register.dir/Activity.cpp.obj	9aa0a4670442dccd
+30	950	7549658267828479	CMakeFiles/register.dir/Register.cpp.obj	fd9bdd2652ee940f
+10	1130	7549658267633214	CMakeFiles/register.dir/main.cpp.obj	62e97b4b7553059e
+1131	1481	7549658278826711	register.exe	b3a419c44299cd98
+17	942	7549662484196057	CMakeFiles/register.dir/Register.cpp.obj	fd9bdd2652ee940f
+8	1092	7549662484098499	CMakeFiles/register.dir/main.cpp.obj	62e97b4b7553059e
+1092	1407	7549662494934786	register.exe	b3a419c44299cd98
+10	1010	7549663433181882	CMakeFiles/register.dir/main.cpp.obj	62e97b4b7553059e
+1011	1323	7549663443193015	register.exe	b3a419c44299cd98
+9	965	7549663540386145	CMakeFiles/register.dir/main.cpp.obj	62e97b4b7553059e
+966	1255	7549663549944972	register.exe	b3a419c44299cd98
